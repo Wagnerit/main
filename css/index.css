@@ -63,7 +63,7 @@ body    {
 .container1 {
     margin: 0;
     width: 100%;
-    height: 80vh;
+    height: 600px;
     background-color: rgba(76, 89, 103, 0.495);
     text-align: center;
 }
@@ -89,7 +89,7 @@ body    {
     margin: 0;
     padding-top: 2%;
     width: 100%;
-    height: 50vh;
+    height: 350px;
     background-color: rgba(44, 101, 64, 0.495);
 }
 #container2-content {
@@ -124,7 +124,7 @@ body    {
     margin: 0;
     padding-top: 2%;
     width: 100%;
-    height: 50vh;
+    height: 350px;
     background-color: rgba(134, 91, 30, 0.495);
 }
 #container3-content {
