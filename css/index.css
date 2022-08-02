@@ -155,3 +155,33 @@ body    {
     text-indent: 2%;
     line-height: 150%;
 }
+.footer {
+    margin: 0;
+    padding-top: 3%;
+    font-family: 'Share Tech', sans-serif;
+    color: rgb(225, 225, 225);
+    height: 100px;
+    background-color: rgba(26, 57, 96, 0.495);
+    text-align: center;
+    line-height: 200%;
+}
+#footer-table-div   {
+    margin: auto 0 auto 0;
+    height: 80%;
+    display: inline-block;
+}
+#footer-table   {
+    border-spacing: 50px 0;
+}
+.footer-links:link  {
+    text-decoration: none;
+    color: rgb(225, 225, 225);
+}
+.footer-links:active  {
+    text-decoration: none;
+    color: rgb(225, 225, 225);
+}
+.footer-links:visited  {
+    text-decoration: none;
+    color: rgb(225, 225, 225);
+}
