@@ -1,4 +1,4 @@
-/* BASIC ELEMENTS*/
+/*BODY ELEMENTS*/
 body    {
     margin:0;
     background-image: url(../images/blade-runner-background.png);
@@ -48,19 +48,64 @@ body    {
     position: absolute;
     right: 5%;
     top: 10px;
-    display: inline-block;
+    display: block;
     color: rgb(225, 225, 225);
     font-family: 'Staatliches', cursive;
     font-size: x-large;
 }
 #wagnerit-banner-logo   {
     padding-top: 5px;
-    display: inline-block;
+    display: block;
     width: 40px;
     position: absolute;
     right: 1%;
     overflow: auto;
 }
+/*BODY ELEMENTS END*/
+/*PAGE ELEMENTS*/
+.container1 {
+    margin: 0;
+    display: inline-block;
+    padding-top: 2%;
+    width: 100%;
+    height: 400px;
+    background-color: rgba(76, 89, 103, 0.495);
+}
+.container1-image   {
+    margin: 0;
+    float: left;
+    width: 20%;
+    margin: 2%;
+}
+.container1-heading {
+    margin: 0;
+    margin-bottom: 2%;
+    text-indent: 10%;
+    color: rgb(225, 225, 225);
+    font-family: 'Staatliches', cursive;
+    font-size: x-large;
+    position: relative;
+    top: 25%;
+}
+.container1-description {
+    margin: 0;
+    padding-right: 2%;
+    text-indent: 2%;
+    color: rgb(225, 225, 225);
+    font-family: 'Share Tech', sans-serif;
+    position: relative;
+    top: 25%;
+}
+.donation-container {
+    margin: 0;;
+    text-align: center;
+    padding-top: 2%;
+    width: 100%;
+    height: 800px;
+    background-color: rgba(44, 101, 64, 0.495);
+}
+/*PAGE ELEMENTS END*/
+/*FOOTER ELEMENTS*/
 .footer {
     margin: 0;
     padding-top: 3%;
@@ -91,3 +136,4 @@ body    {
     text-decoration: none;
     color: rgb(225, 225, 225);
 }
+/*FOOTER ELEMENTS END*/

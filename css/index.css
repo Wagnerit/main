@@ -1,3 +1,4 @@
+/*BODY ELEMENTS*/
 body    {
     margin:0;
     background-image: url(../images/blade-runner-background.png);
@@ -60,6 +61,8 @@ body    {
     right: 1%;
     overflow: auto;
 }
+/*BODY ELEMENTS END*/
+/*PAGE ELEMENTS*/
 .container1 {
     margin: 0;
     width: 100%;
@@ -155,6 +158,8 @@ body    {
     text-indent: 2%;
     line-height: 150%;
 }
+/*PAGE ELEMENTS END*/
+/*FOOTER ELEMENTS*/
 .footer {
     margin: 0;
     padding-top: 3%;
@@ -185,3 +190,4 @@ body    {
     text-decoration: none;
     color: rgb(225, 225, 225);
 }
+/*FOOTER ELEMENTS END*/
